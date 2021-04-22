@@ -7,8 +7,9 @@ This guide mostly focuses on building [LineageOS](https://lineageos.org/)...
 
 ## Contents
 
-- [About Creating Device Tree](##About%20Creating%20Device%20Tree)
-- [Resources](Resources)
+- [About Creating Device Tree](#about-creating-device-tree)
+  - [BoardConfig.mk](#boardconfigmk)
+- [Resources](#resources)
 
 ## About Creating Device Tree
 
